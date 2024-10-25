@@ -1,5 +1,5 @@
 # Official Website
-This consists of the official website using Angular 14+
+This consists of the official website using Angular 18.2
 
 ## Description
 
